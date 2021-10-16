@@ -16,10 +16,10 @@
     
 bw.txt
 
-   預設的環境參數，方便Ryu Controller進行初始值的定義。
+    預設的環境參數，方便Ryu Controller進行初始值的定義。
 
 topo.py
 
-  預設的拓譜，請使用mininet來進行執行，並請更新的同時更新bw.txt。
+     預設的拓譜，請使用mininet來進行執行，並請更新的同時更新bw.txt。
  
   
