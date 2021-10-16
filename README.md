@@ -13,3 +13,13 @@
 
     承接Project1，根據最小的delay來進行路由規劃。
     Note:因為需要取值當前的頻寬才能進行路由，所以在mininet執行時，需要稍等片刻直到update delay出現時，才能開始進行路由。
+    
+bw.txt
+
+   預設的環境參數，方便Ryu Controller進行初始值的定義。
+
+topo.py
+
+  預設的拓譜，請使用mininet來進行執行，並請更新的同時更新bw.txt。
+ 
+  
