@@ -10,3 +10,5 @@
     Note:因為需要取值當前的頻寬才能進行路由，所以在mininet執行時，需要稍等片刻直到update bandwidth出現時，採能開始進行路由`
     
 3. Dijkstra_delay.py
+
+    承接Project1，根據最小的delay來進行路由規劃。
