@@ -2,7 +2,6 @@
 
 1. Dijkstra.py
 
-    Using Dijkstra algorithm to execute the shortest path algorithm in SDN and the weight of each link is 1.
     透過Dijkstra演算法來於SDN中執行最短路由，此處每條路權重預設為1。
     
 2. Dijkstra_bw.py
