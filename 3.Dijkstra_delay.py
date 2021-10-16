@@ -375,4 +375,4 @@ class ProjectController(app_manager.RyuApp):
         lldp_delay[str(src)][str(dst)] = lldp_dealy
         #print('LLDP between', src, ' and ', dst , 'is' ,lldp_dealy)
         delay[str(src)][str(dst)] = lldp_dealy - echo_delay[str(src)]/2 - echo_delay[str(dst)]/2
-        #print('Delay between', src, ' and ', dst , 'is' , delay[str(src)][str(dst)] )
+        print('Update delay' )
